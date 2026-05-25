@@ -45,9 +45,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusrivastava049-afk&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=priyanshusrivastava049-afk&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusrivastava049-afk&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusrivastava049-afk&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
