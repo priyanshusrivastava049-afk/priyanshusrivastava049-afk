@@ -9,12 +9,19 @@
 ## 🙋‍♂️ About Me
 
 🎓 First-Year B.Tech Computer Science Student
+
 💻 Passionate about Web Development and Problem Solving
+
 🧩 Solved 200+ problems on LeetCode and actively participate in coding contests
+
 🌱 Currently learning JavaScript, React, and Data Structures & Algorithms
+
 🚀 Building projects to strengthen my frontend development skills
+
 🔍 Interested in creating clean, responsive, and user-friendly web experiences
+
 📍 Based in India
+
 💬 Open to collaboration, feedback, and learning opportunities
 
 ---
