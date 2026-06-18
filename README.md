@@ -46,8 +46,7 @@
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | 🚧 *Portfolio* | My first portfolio project | HTML, CSS, JS |
-| <img width="60" height="60" alt="img icons8" src="https://github.com/user-attachments/assets/f479c5e9-5f5c-4099-87af-b92263335593" />
- *ABES Webpage* | Clone of my college website | HTML, CSS |
+| *ABES Webpage* | Clone of my college website | HTML, CSS |
 
 > More projects will be added as I keep learning and building!
 
