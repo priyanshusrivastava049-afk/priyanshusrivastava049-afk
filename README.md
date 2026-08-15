@@ -40,7 +40,23 @@
 - Version control with Git & GitHub
 
 ---
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusrivastava049-afk&theme=github-compact&hide_border=true" width="100%"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusrivastava049-afk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusrivastava049-afk&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=priyanshusrivastava049-afk&theme=github-dark&hide_border=true"/>
+
+</div>
 ## 📂 Projects
 
 | Project | Description | Tech Used |
