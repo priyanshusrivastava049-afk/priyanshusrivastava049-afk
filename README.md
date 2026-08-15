@@ -8,15 +8,15 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 First-Year B.Tech Computer Science Student
+🎓 Second-Year B.Tech Computer Science Student
 
 💻 Passionate about Web Development and Problem Solving
 
-🧩 Solved 200+ problems on LeetCode and actively participate in coding contests
+🧩 Solved 250+ problems on LeetCode and actively participate in coding contests
 
-🌱 Currently learning JavaScript, React, and Data Structures & Algorithms
+🌱 Currently learning React, and Data Structures & Algorithms
 
-🚀 Building projects to strengthen my frontend development skills
+🚀 Building projects to strengthen my full stack development skills
 
 🔍 Interested in creating clean, responsive, and user-friendly web experiences
 
@@ -29,16 +29,13 @@
 ## 🛠️ Skills & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
 **Currently learning:**
-- Responsive design & CSS layouts (Flexbox, Grid)
-- DOM manipulation with JavaScript
-- Version control with Git & GitHub
-
+- 🧠 Advanced DSA & Competitive Programming with C++
+- ⚛️ Advanced React & Full-Stack Development
+- 🏗️ System Design & Scalable Application Architecture
 ---
 ## 📊 GitHub Analytics
 
