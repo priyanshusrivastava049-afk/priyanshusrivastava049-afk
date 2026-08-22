@@ -40,10 +40,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusrivastava049-afk&theme=github-compact&hide_border=true" width="100%"/>
 
 <br><br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshusrivastava049-afk&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</div>
  💻 Coding Profiles
 
 <p align="center">
