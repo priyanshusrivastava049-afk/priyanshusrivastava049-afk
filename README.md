@@ -44,7 +44,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=priyanshusrivastava049-afk&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
-## 💻 Coding Profiles
+ 💻 Coding Profiles
 
 <p align="center">
 
